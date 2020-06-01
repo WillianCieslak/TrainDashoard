@@ -1,0 +1,2 @@
+dashboard.scripreader.DashboardEventGeneratorFromXML
+dashboard.scripreader.DashboardEventGeneratorFromXML$1

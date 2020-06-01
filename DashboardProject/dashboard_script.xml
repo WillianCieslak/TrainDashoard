@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by University of Greenwich (University of Greenwich) -->
+<dashboard_script>
+
+	<dashboard_event>
+		<type>speed</type>
+		<value>5.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>10.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>15.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+
+	<dashboard_event>
+		<type>speed</type>
+		<value>17.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>20.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>25.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>30.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>40.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>50.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>52.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>60.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>55.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>50.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>52.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>55.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+		<dashboard_event>
+		<type>speed</type>
+		<value>50.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>52.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>60.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>55.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>50.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>52.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>55.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+		<dashboard_event>
+		<type>speed</type>
+		<value>50.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>52.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>60.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>55.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>50.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>52.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>55.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>50.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>45.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>40.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>35.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>30.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>15.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>5.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+	<dashboard_event>
+		<type>speed</type>
+		<value>0.0</value>
+	</dashboard_event>
+    <delay>5</delay>
+	
+</dashboard_script>
